@@ -1,0 +1,116 @@
+Experiment ID,Group ID,Animal ID,Mortality,PCR A.astaci
+1,control,1,0,negative
+1,control,2,0,negative
+1,control,3,0,negative
+1,control,4,0,negative
+1,control,5,0,negative
+1,control,6,0,negative
+1,control,7,0,negative
+1,control,8,0,negative
+1,control,9,0,negative
+1,control,10,0,negative
+1,control,11,0,negative
+1,control,12,0,negative
+1,control,13,0,negative
+1,control,14,0,negative
+1,control,15,0,negative
+1,7500,16,0,negative
+1,7500,17,0,negative
+1,7500,18,0,negative
+1,7500,19,0,positive
+1,7500,20,0,negative
+1,7500,21,0,negative
+1,7500,22,0,positive
+1,7500,23,0,negative
+1,7500,24,0,positive
+1,7500,25,1,positive
+1,7500,26,0,negative
+1,7500,27,0,positive
+1,7500,28,0,negative
+1,7500,29,0,negative
+1,7500,30,0,negative
+1,7500,46,0,negative
+1,7500,47,0,positive
+1,7500,48,0,negative
+1,7500,49,1,positive
+1,7500,50,0,positive
+1,15000,31,1,positive
+1,15000,32,1,positive
+1,15000,33,0,positive
+1,15000,34,1,positive
+1,15000,35,0,positive
+1,15000,36,0,positive
+1,15000,37,0,positive
+1,15000,38,0,negative
+1,15000,39,0,negative
+1,15000,40,0,positive
+1,15000,41,0,positive
+1,15000,42,0,negative
+1,15000,43,0,negative
+1,15000,44,0,negative
+1,15000,45,0,negative
+1,15000,51,0,negative
+1,15000,52,0,negative
+1,15000,53,0,positive
+1,15000,54,0,negative
+1,15000,55,1,positive
+2,Control 5x wk,59,0,negative
+2,Control 5x wk,62,0,negative
+2,Control 5x wk,65,0,negative
+2,Control 5x wk,72,0,negative
+2,Control 5x wk,76,0,negative
+2,Control 5x wk,78,0,negative
+2,Control 5x wk,80,0,negative
+2,Control 5x wk,83,0,negative
+2,Control 5x wk,85,0,negative
+2,Control 5x wk,94,0,negative
+2,Control 5x wk,96,0,negative
+2,Control 5x wk,98,0,negative
+2,Control 5x wk,99,0,negative
+2,Control 5x wk,117,0,negative
+2,Control 5x wk,118,0,negative
+2,Control 1x wk,63,0,negative
+2,Control 1x wk,67,0,negative
+2,Control 1x wk,68,0,negative
+2,Control 1x wk,71,0,negative
+2,Control 1x wk,73,0,negative
+2,Control 1x wk,74,0,negative
+2,Control 1x wk,93,0,negative
+2,Control 1x wk,112,0,negative
+2,Control 1x wk,119,0,negative
+2,Control 1x wk,120,0,negative
+2,Control 1x wk,121,0,negative
+2,Control 1x wk,123,0,negative
+2,Control 1x wk,124,0,negative
+2,Control 1x wk,125,0,negative
+2,Control 1x wk,126,0,negative
+2,15000  5x wk,56,0,positive
+2,15000 5x wk,60,0,positive
+2,15000 5x wk,61,0,positive
+2,15000 5x wk,66,0,negative
+2,15000 5x wk,70,0,positive
+2,15000 5x wk,75,0,positive
+2,15000 5x wk,81,0,positive
+2,15000 5x wk,82,0,positive
+2,15000 5x wk,86,1,positive
+2,15000 5x wk,87,0,positive
+2,15000 5x wk,88,1,positive
+2,15000 5x wk,89,0,negative
+2,15000 5x wk,100,0,positive
+2,15000 5x wk,111,1,positive
+2,15000 5x wk,116,1,positive
+2,15000 1x wk,57,0,positive
+2,15000 1x wk,58,0,positive
+2,15000 1x wk,64,0,positive
+2,15000 1x wk,69,0,positive
+2,15000 1x wk,77,0,positive
+2,15000 1x wk,79,1,positive
+2,15000 1x wk,84,1,positive
+2,15000 1x wk,90,1,positive
+2,15000 1x wk,91,1,positive
+2,15000 1x wk,92,0,positive
+2,15000 1x wk,95,1,positive
+2,15000 1x wk,97,1,positive
+2,15000 1x wk,113,1,positive
+2,15000 1x wk,122,1,positive
+2,15000 1x wk,127,0,positive
