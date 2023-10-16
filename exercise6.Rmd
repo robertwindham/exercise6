@@ -96,7 +96,7 @@ cray3 <- cray %>%
 
 # Marbled Crayfish (*Procambarus virginalis*) Example
 
-**This dataset looks at the growth of juvenile marbled crayfish in response to infection trials of the crayfish plague pathogen *Aphanomyces astaci*. Groups were continuously exposed to 1 of 3 concentrations of *A.astaci* every two weeks and their wet weight and total length were recorded before each infection trial. Infection doses included: None, 7500 zoospore/mL, 15000 zoospore/mL**
+**This dataset looks at the growth of juvenile marbled crayfish in response to infection trials of the crayfish plague pathogen *Aphanomyces astaci*. Groups were continuously exposed to 1 of 3 concentrations of *A.astaci* every two weeks and their wet weight and total length were recorded before each infection trial. Infection doses included: None. 7500 zoospore/mL. 15000 zoospore/mL. Marbled Crayfish are the also the only known obligate parthenogen among the Decapoda Order of crustaceans which includes 15,000 species. They have become an invasive nuisance because they rapidly reproduce and are common carriers of the crayfish plague pathogen **
 
 
 ![Figure 1. Marbled Crayfish (*Procambarus virginalis*)](images/crayfish.jpg)
@@ -273,6 +273,7 @@ p/p2
 
 # Pairwise contrasts
 
+**Results may be misleading due to involvement in interactions**
 
 ## Between groups
 
